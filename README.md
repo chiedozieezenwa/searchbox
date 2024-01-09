@@ -1,1 +1,1 @@
-# searchbox
+# simple searchbox
